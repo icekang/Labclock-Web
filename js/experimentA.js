@@ -63,7 +63,7 @@ experiment.A = {
     },
     {
       title: 'Demo',
-      content: '<p>Clock in demo mode. Press \'Next\' once you undestand how it works.</p><div id="demo_clock"><div id="demo_marks"><img src="img/dot.png" width="510" height="510"  id="demo_dot"/></div></div>'
+      content: '<p>Clock in demo mode. Press \'Next\' once you understand how it works.</p><div id="demo_clock"><div id="demo_marks"><img src="img/dot.png" width="510" height="510"  id="demo_dot"/></div></div>'
     }
   ],
   passwordScreen: {
